@@ -70,7 +70,7 @@ body {
 }
 
 .input-area input[type="text"] {
-    width: 284px;
+    width: 256px;
     padding: 8px;
     font-size: 18px;
     border: 2px solid #555;
